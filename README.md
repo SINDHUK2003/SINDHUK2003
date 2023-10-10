@@ -5,8 +5,6 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Artificial Intell
 
 ## 🚀 About Me
 
-I thrive on turning raw data into meaningful insights and building machine learning models that make a positive impact. My journey in the field of Artificial Intelligence and Data Science is a continuous quest for knowledge and innovation.
-
 - 🎓 B.Tech in Artificial Intelligence and Data Science
 
 - 💼 Student
@@ -19,11 +17,18 @@ I thrive on turning raw data into meaningful insights and building machine learn
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)
 ...
+
 
 ## 🌱 I'm Currently Learning
 
-I am currently dedicated to expanding my skills in **LAMP (Linux, Apache, MySQL, PHP) stack for backend development**. Exploring the intricacies of server-side development, database management, and crafting robust web applications is my current learning journey.
+I am currently dedicated to expand my skills in **LAMP (Linux, Apache, MySQL, PHP) stack for backend development**. Exploring server-side development, database management, and crafting robust web applications is my current learning journey.
 
 
 ## 👯‍♀️ I'm Looking to Collaborate On
