@@ -1,14 +1,23 @@
 
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm [Sindhu]
 
-Welcome to my GitHub profile! I'm passionate about [mention your interests, e.g., software development, data science, machine learning], and I enjoy creating [mention types of projects you work on, e.g., web applications, algorithms, open-source contributions].
+Welcome to my GitHub profile! I'm a B.Tech student majoring in Artificial Intelligence and Data Science, passionate about exploring and contributing to the world of technology.
+Welcome to my GitHub profile! I'm passionate about data science and machine learning , and I enjoy creating insights out of data and predictive ML models that solves real world problems.
 
 ## 🚀 About Me
 
-- 🎓 [Your education background]
-- 💼 [Your current job or position]
-- 🌐 [Your personal website or blog, if applicable]
-- 📫 How to reach me: [Your email address]
+## 🎓 Education
+
+- 🎓 B.Tech in Artificial Intelligence and Data Science
+
+## 💼 Current Position
+
+- 💼 Student
+
+## 📫 How to Reach Me
+
+- 📫 Email: sindhukandasamy333@gmail.com
+
 
 ## 🔧 Technologies & Tools
 
