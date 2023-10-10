@@ -60,7 +60,6 @@ I am currently dedicated to expand my skills in **LAMP (Linux, Apache, MySQL, PH
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sindhu-k-265477226)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/SindhuK_2003)
 
----
 
 ## 👯‍♀️ I'm Looking to Collaborate On
 
