@@ -27,7 +27,9 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Artificial Intell
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)
+![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-3F2B34?style=flat&logo=oracle&logoColor=white)
 ...
+
 
 
 ## 🌱 I'm Currently Learning
