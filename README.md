@@ -43,7 +43,9 @@ I am currently dedicated to expand my skills in **LAMP (Linux, Apache, MySQL, PH
 
 ## 📈 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=contribs,prs)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=SINDHUK2003&show_icons=true&hide=contribs,prs)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SINDHUK2003)
 
 
 ## 📝 Latest Blog Posts
