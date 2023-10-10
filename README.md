@@ -12,8 +12,6 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Artificial Intell
 
 - 📫 Email: sindhukandasamy333@gmail.com
   
-- 📞 Phone: +91 6379785208
-
 
 ## 🔧 Technologies & Tools
 
