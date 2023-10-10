@@ -3,6 +3,7 @@
 
 Welcome to my GitHub profile! I'm a B.Tech student majoring in Artificial Intelligence and Data Science, passionate about exploring and contributing to the world of technology. I specialize in data science and machine learning, creating insights from data and developing predictive models to solve real-world problems.
 
+
 ## 🚀 About Me
 
 - 🎓 B.Tech in Artificial Intelligence and Data Science
@@ -10,6 +11,9 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Artificial Intell
 - 💼 Student
 
 - 📫 Email: sindhukandasamy333@gmail.com
+  
+- 📞 Phone: +91 6379785208
+
 
 ## 🔧 Technologies & Tools
 
@@ -31,13 +35,16 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Artificial Intell
 I am currently dedicated to expand my skills in **LAMP (Linux, Apache, MySQL, PHP) stack for backend development**. Exploring server-side development, database management, and crafting robust web applications is my current learning journey.
 
 
-## 👯‍♀️ I'm Looking to Collaborate On
+## 🏆 Coding Profiles
 
-I'm enthusiastic about collaborating on **innovative open-source projects** and participating in **hackathons**. Let's build something amazing together!
+- **HackerRank:** [@21AD041_KPRIET](https://www.hackerrank.com/21AD041_KPRIET) 
+- **SkillRack:** [21ad041@kpriet](http://www.skillrack.com/profile/387793/cddf33d4e3d68262ef3e860918832aa3b91a5502) 
+
 
 ## 📈 GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=contribs,prs)
+
 
 ## 📝 Latest Blog Posts
 
@@ -45,12 +52,18 @@ I'm enthusiastic about collaborating on **innovative open-source projects** and 
 - [MacGit Mastery](https://medium.com/@sindhukandasamy333/macgit-mastery-06d52f5646db)
 <!-- BLOG-POST-LIST:END -->
 
+
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sindhu-k-265477226)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/SindhuK_2003)
 
 ---
+
+## 👯‍♀️ I'm Looking to Collaborate On
+
+I'm enthusiastic about collaborating on **innovative open-source projects** and participating in **hackathons**. Let's build something amazing together!
+
 
 Feel free to fork and star my projects! ⭐️
 
