@@ -1,3 +1,12 @@
+Hi , I am Sindhu K
+__________________________________________________________________________
+
+
+
+
+
+
+
 - 👋 Hi, I’m SINDHU K
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
