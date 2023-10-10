@@ -63,9 +63,11 @@ I am currently dedicated to expand my skills in **LAMP (Linux, Apache, MySQL, PH
 
 ## 👯‍♀️ I'm Looking to Collaborate On
 
-I'm enthusiastic about collaborating on **innovative open-source projects** and participating in **hackathons**. Let's build something amazing together!
+I'm enthusiastic about collaborating on **innovative open-source projects** and participating in **hackathons**. 
 
+Let's build something amazing together!
 
+##
 Feel free to fork and star my projects! ⭐️
 
 <!---
