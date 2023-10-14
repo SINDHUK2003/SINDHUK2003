@@ -1,4 +1,4 @@
-
+[![](https://visitcount.itsvg.in/api?id=SINDHUK2003&label=Profile%20Views&color=1&icon=1&pretty=false)](https://visitcount.itsvg.in)
 # 👋 Hello, I'm Sindhu
 
 Welcome to my GitHub profile! I'm a B.Tech student majoring in Artificial Intelligence and Data Science, passionate about exploring and contributing to the world of technology. I specialize in data science and machine learning, creating insights from data and developing predictive models to solve real-world problems.
