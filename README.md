@@ -53,6 +53,7 @@ I am currently dedicated to expand my skills in **LAMP (Linux, Apache, MySQL, PH
 
 <!-- BLOG-POST-LIST:START -->
 - [MacGit Mastery](https://medium.com/@sindhukandasamy333/macgit-mastery-06d52f5646db)
+- [Riding the Backend wave](https://medium.com/@sindhukandasamy333/riding-the-backend-wave-075765d1d525)
 <!-- BLOG-POST-LIST:END -->
 
 
